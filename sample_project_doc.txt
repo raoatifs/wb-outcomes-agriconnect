@@ -1,0 +1,20 @@
+ILLUSTRATIVE FIXTURE (synthetic) — mimics the structure of a World Bank
+Implementation Status and Results Report (ISR) for demonstrating the field
+extractor offline. Replace with real text pulled via src/docs_api.py.
+
+Project Development Objective: to increase agricultural productivity and the
+climate resilience of smallholder farmers, and to strengthen food security in
+the project area through improved irrigation and climate-smart practices.
+
+The project is expected to reach 250000 direct beneficiaries, of whom at least
+40 percent are women.
+
+Results Indicator: Farmers reached with agricultural assets or services.
+Unit: Number
+Baseline: 0
+End Target: 250000
+Actual: 180000
+
+The operation supports climate-smart agriculture, drought adaptation, livestock
+productivity, and value chain development, contributing to the World Bank Group
+Scorecard outcomes on food security and climate-risk resilience.
